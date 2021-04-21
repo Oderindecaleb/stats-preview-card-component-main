@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/desktop.jpeg](./images/desktop.jpeg)
+![./images/desktop-.jpeg](./images/desktop.jpeg)
 
 
 
