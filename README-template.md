@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop.jpeg)
+![./images/desktop.jpeg](./images/desktop.jpeg)
 
 
 
@@ -61,7 +61,7 @@ Users should be able to:
 ## Author
 
 - 
-- Twitter - [@yourusername](https://www.twitter.com/caleb_oderinde)
+- Twitter - [@caleb_oderinde](https://www.twitter.com/caleb_oderinde)
 
 
 
